@@ -13,3 +13,8 @@ Done on April 10th, 2024.
 ## contributors
 -Jimmy Duhamahoro
 -Kalisa Rusibande
+
+
+##### status update
+
+pushed to GitHub on April 10th, 2024 - 12:18 CDT
